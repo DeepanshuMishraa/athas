@@ -1,0 +1,24 @@
+src/features/file-system/tests/file-system-drop-controller.test.ts
+  s_9118ca3aef815e::t_11388761f6c8b6 107
+src/features/file-system/hooks/use-file-system-folder-drop.ts
+  s_9118ca3aef815e::t_d0bd934337257a 92-95,100-103,105-108,157,181,191,203,213,250
+  s_9118ca3aef815e::t_d2ad2701ac83b4 115,118-121
+src/features/file-system/utils/file-system-drop-controller.ts
+  s_9118ca3aef815e::t_c764fa99fac7cf 70,74-76
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "1239813e4b91cc7e4a8cbefecfc743ed16bcb32a",
+  "prompts": {},
+  "sessions": {
+    "s_9118ca3aef815e": {
+      "agent_id": {
+        "tool": "github-copilot-cli",
+        "id": "42d443b6-ae9e-49be-9be1-bb9b7200d9ef",
+        "model": "gpt-5.4-mini"
+      },
+      "human_author": "Deepanshu Mishra <d4deepanshu723@gmail.com>"
+    }
+  }
+}
