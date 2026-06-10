@@ -1,0 +1,23 @@
+src/ui/textarea.tsx
+  s_ad43e8d3c42f36::t_f444cb474966c9 35-43,47-54
+src/ui/input.tsx
+  s_ad43e8d3c42f36::t_2481fac8ce1447 129-131
+  s_ad43e8d3c42f36::t_a0c122fa60a290 105-107
+  s_ad43e8d3c42f36::t_3758119474c6cb 74-76
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "0afa7ab9527b773023353834314bc9289fff5ae2",
+  "prompts": {},
+  "sessions": {
+    "s_ad43e8d3c42f36": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_14f6e9619ffe2pHe7QGZzLzZIm",
+        "model": "kimi-k2.6"
+      },
+      "human_author": "Deepanshu Mishra <d4deepanshu723@gmail.com>"
+    }
+  }
+}
