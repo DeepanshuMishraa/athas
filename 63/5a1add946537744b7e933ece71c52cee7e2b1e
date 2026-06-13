@@ -1,0 +1,20 @@
+src/features/window/hooks/use-deep-link.ts
+  s_2c37f012564c48::t_83ea18979737f6 1,22-24,26-30,38
+  s_2c37f012564c48::t_535586e6e25c44 25
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "635a1add946537744b7e933ece71c52cee7e2b1e",
+  "prompts": {},
+  "sessions": {
+    "s_2c37f012564c48": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_13eb6d067ffeAxyW55nebvxHOI",
+        "model": "deepseek-v4-flash-free"
+      },
+      "human_author": "Deepanshu Mishra <d4deepanshu723@gmail.com>"
+    }
+  }
+}
